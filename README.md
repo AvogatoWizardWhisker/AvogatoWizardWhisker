@@ -14,9 +14,6 @@ As for lions, did you know that a lion's roar can be so thunderous it can be hea
 -->
 # Github Stat
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#prussian" alt="NobleMajo" />
-</p>
 <!--
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
