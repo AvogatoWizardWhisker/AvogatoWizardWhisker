@@ -23,6 +23,10 @@ As for lions, did you know that a lion's roar can be so thunderous it can be hea
 </p>
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&theme=prussian&show_icons=true" />
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AvogatoWizardWhisker&layout=compact&show_icons=true&langs_count=8&theme=prussian&card_width=230" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&theme=transparent&show_icons=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avogatowizardwhisker&layout=donut&theme=transparent&card_width=270">
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
 </a>
