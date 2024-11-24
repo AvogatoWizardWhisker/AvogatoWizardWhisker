@@ -26,6 +26,4 @@ As for lions, did you know that a lion's roar can be so thunderous it can be hea
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&theme=shades-of-purple&show_icons=true" />
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avogatowizardwhisker&layout=compact&theme=shades-of-purple&card_width=270">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 
