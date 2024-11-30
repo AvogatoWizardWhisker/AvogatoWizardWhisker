@@ -14,7 +14,7 @@ As for lions, did you know that a lion's roar can be so thunderous it can be hea
 -->
 # Github Stat
 
-![snake gif](https://github.com/your-user-name/AvogatoWizardWhisker/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AvogatoWizardWhisker/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
