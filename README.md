@@ -27,7 +27,7 @@ As for lions, did you know that a lion's roar can be so thunderous it can be hea
 ![snake gif](https://github.com/AvogatoWizardWhisker/AvogatoWizardWhisker/blob/output/github-contribution-grid-snake.gif)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&theme=transparent&show_icons=true" />
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avogatowizardwhisker&layout=compact&theme=transparent&card_width=270">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&theme=aura&show_icons=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avogatowizardwhisker&layout=compact&theme=aura&card_width=270">
 </a>
 
