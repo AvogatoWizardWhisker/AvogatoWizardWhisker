@@ -5,28 +5,29 @@ Hi, I'm **Solus Gameolus**, a digital marketer enthusiast and computer aficionad
 With a moniker that conjures images of a mystical feline wielding a wand in one paw and a ripe avocado in the other, he navigates the digital jungle with the kindergarten level of a coder and the skills of a marketer.
 
 As for lions, did you know that a lion's roar can be so thunderous it can be heard up to 8.04672 kilometers away? Imagine if they had social media – their posts would literally go viral with every roar!
-<!--
-# Github Stat
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvogatoWizardWhisker&layout=compact&theme=cobalt)
+# My Tech Skills
 
-![SolusDracoCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&show_icons=true&theme=cobalt)
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,cs,dotnet" />
+  </a>
+</p>
+
+# IDE I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rider,vscode,visualstudio&theme=light" />
+  </a>
+</p>
+
 # Github Stat
 
 ![snake gif](https://github.com/AvogatoWizardWhisker/AvogatoWizardWhisker/blob/output/github-contribution-grid-snake.gif)
 
-
-<!--
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=AvogatoWizardWhisker&theme=prussian" alt="AvogatoWizardWhisker" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&show_icons=true&locale=en&theme=prussian" alt="AvogatoWizardWhisker" />
-    </span>
-</p>
--->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&theme=shades-of-purple&show_icons=true" />
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avogatowizardwhisker&layout=compact&theme=shades-of-purple&card_width=270">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AvogatoWizardWhisker&theme=transparent&show_icons=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avogatowizardwhisker&layout=compact&theme=transparent&card_width=270">
 </a>
 
