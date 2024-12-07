@@ -1,6 +1,6 @@
 # Greetings 👋
 
-Hi, I'm **@AvogatoWizardWhisker**, a digital marketer enthusiast and computer aficionado. I'm on a quest to conquer the realms of C#, HTML, and CSS.
+Hi, I'm **Solus Gameolus**, a digital marketer enthusiast and computer aficionado. I'm on a quest to conquer the realms of C#, HTML, and CSS.
 
 With a moniker that conjures images of a mystical feline wielding a wand in one paw and a ripe avocado in the other, he navigates the digital jungle with the kindergarten level of a coder and the skills of a marketer.
 
