@@ -6,7 +6,7 @@ With a moniker that conjures images of a mystical feline wielding a wand in one 
 
 As for lions, did you know that a lion's roar can be so thunderous it can be heard up to 8.04672 kilometers away? Imagine if they had social media – their posts would literally go viral with every roar!
 
-# My Tech Skills
+# My Tech Skills (very novice)
 
 <p align="center">
   <a href="https://skillicons.dev">
