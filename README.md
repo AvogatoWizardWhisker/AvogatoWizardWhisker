@@ -10,7 +10,7 @@ As for lions, did you know that a lion's roar can be so thunderous it can be hea
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,cs,dotnet,tailwindcss" />
   </a>
 </p>
 
