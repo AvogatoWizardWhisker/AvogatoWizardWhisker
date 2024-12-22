@@ -1,4 +1,4 @@
-# Greetings 👋
+# Greetings 🦁🐲
 
 Hi, I'm **Solus Gameolus**, a digital marketer enthusiast and computer aficionado. I'm on a quest to conquer the realms of C#, HTML, and CSS.
 
